@@ -1,0 +1,14 @@
+.headerSmall{
+    font-size: small;
+}
+.text{
+    font-size: large  ;
+    font-weight: bold;
+}
+p{
+    margin-bottom: 6px !important;
+}
+.trendingMain{
+    padding:12px;
+    margin: 6px 0px;
+}

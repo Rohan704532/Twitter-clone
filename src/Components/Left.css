@@ -1,0 +1,42 @@
+.Main{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    padding-left: 100px;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+
+.Main a{
+    display: block;
+    margin: 12px 0;
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+}
+
+#exploreOption{
+    font-weight: bold;
+}
+
+.tweet-btn{
+    width: 100px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid cornflowerblue;
+    border-radius: 25px;
+    padding: 4px;
+    margin-top: 24px;
+}
+
+.Tweet{
+    border-radius: 15px;
+    background-color: #92beff;;
+    font-size: x-large;
+    margin-top: 17px;
+}
+.svg1{
+    font-size: x-large;
+}

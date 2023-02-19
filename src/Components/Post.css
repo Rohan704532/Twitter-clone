@@ -1,0 +1,24 @@
+.formsign{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.TweCan{
+    margin: 15px;
+    border-radius: 20px;
+    background-color: #a7caff;
+
+}
+.post{
+    border: 2px solid grey;
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    margin: 15px;
+}

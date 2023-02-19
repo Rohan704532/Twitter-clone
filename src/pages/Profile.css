@@ -1,0 +1,16 @@
+.Maindiv{
+    display: flex;
+    height: 100%;
+}
+
+.Left{
+    width: 26%;
+}
+.Center{
+    width: 39%;
+    border-left: 1px solid lightblue;
+    border-right: 1px solid lightblue;
+}
+.Right{
+    width: 35%;
+}

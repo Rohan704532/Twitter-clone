@@ -1,0 +1,26 @@
+[{
+    "header":"Trending in India",
+    "text":"Cricket",
+    "tweetcount":"50K Tweets"
+},
+{
+    "header":"Trending in Business",
+    "text":"Elon Musk",
+    "tweetcount":"20K Tweets"
+},
+{
+    "header":"Trending in Sports",
+    "text":"Cricket",
+    "tweetcount":"20K Tweets"
+},
+{
+    "header":"Trending in USA",
+    "text":"Elon Musk",
+    "tweetcount":"50K Tweets"
+},
+{
+    "header":"Trending in World",
+    "text":"ICC WorldCup",
+    "tweetcount":"2.4M Tweets"
+}
+]

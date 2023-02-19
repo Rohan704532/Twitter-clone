@@ -1,0 +1,10 @@
+.form-main{
+    width: 400px;
+    margin-top: 210px;
+    margin-left: 555px;
+    border: 1px solid grey;
+}
+
+.form-group{
+    margin: 15px;
+}
